@@ -20,16 +20,3 @@ A modern multi-page application built with **React**, **React Router v6**, and *
 
 👉 [Routify on GitHub Pages](https://adarshsingh-1.github.io/Routify)
 
-### 📸 Preview
-
-_Add a screenshot here if you have one._
-
----
-
-Let me know if you’d like:
-- A `LICENSE.md` (MIT recommended)
-- A `.gitignore`
-- A full `package.json` snippet with deploy scripts
-- A badge setup (e.g., Netlify, GitHub Actions)
-
-Just say the word!
